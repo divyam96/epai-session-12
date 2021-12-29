@@ -2,7 +2,7 @@
 ### Submitted by Divyam Shah
 ### E-mail id: divyam096@gmail.com
 
-### Link to Google Colaboratory notebook that hosts the codes written as a part of the assignment as packages:  https://colab.research.google.com/drive/13wLLDOjLs6BEBWZ0R9fIjUKV6k9AVtAJ#scrollTo=_aPUqCd5Wbq3
+### Link to Google Colaboratory notebook that hosts the codes written as a part of the assignment as packages:  https://colab.research.google.com/drive/1YVMLCKj6FnRyDyRRGPulTFon25PIPtAK?usp=sharing
 
 
 # Iterables and Iterators II
